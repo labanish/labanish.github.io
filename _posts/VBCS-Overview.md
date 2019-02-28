@@ -6,5 +6,5 @@ title: Oracle Visual Builder Cloud Service
 
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+#![_config.yml]({{ site.baseurl }}/images/config.png)
 
