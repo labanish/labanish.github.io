@@ -57,7 +57,24 @@ Click back to design view and click on the list view to highlight it. Select "Ad
 
 The same steps like above apply -> select the business objects and select the objects to be inputed. 
 
+The finished screen should look like this-> 
+##image 10
+Click on the play button to test your application!
+image 11
 
+Below is a demo video of the application we just created.
+
+##demo video.
+
+You can download the skeleton application i created [here]
+
+If you have any questions regarding VBCS feel free to reach out to me. 
+
+I would love your feedback too, comment below.
+
+Thank you!
+
+*The views expressed in this blog are my own and do not necessarily reflect the views of Oracle Corporation.*
 
 
 
