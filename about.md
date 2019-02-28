@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, I am Laban Ndwaru. A tech Enthusiast. 
+Hello, I am Laban Ndwaru. A Global Citizen. A Tech Enthusiast! 
 
 ### More Information
 
