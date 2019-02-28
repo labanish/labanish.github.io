@@ -36,7 +36,30 @@ Drag and drop a ListView from the Components pallet.
 
 Click on Add Data.
 Select the Business Object you created (BooksCatalog) 
-Follow the wizard to display only BookTitle, Author Publish Date.
+Follow the wizard to display only BookTitle and author. 
+No Queries to define-> click save.
+This would be the outcome.
+##image7
+
+Now let's add an action when somebody clicks on the item on the Listview. We want to someone to see more details about the book ie. Description & Published Dates.
+Select on the List view. Click on the data Icon. Then click on the "Add Details Page"
+##image8
+Select the Business Object on the Wizard.
+Drag and drop Booktitle, Description, PublishDate on the "Fields" area.
+Click Finish.
+
+You can now test the app by clicking on the Live button. Select a row on the list view.
+##image9
+
+Let's add a book! 
+
+Click back to design view and click on the list view to highlight it. Select "Add a create page"
+
+The same steps like above apply -> select the business objects and select the objects to be inputed. 
+
+
+
+
 
 
 
