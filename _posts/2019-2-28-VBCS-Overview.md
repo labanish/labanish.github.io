@@ -4,14 +4,15 @@ title: Oracle Visual Builder Cloud Service
 ---
 *I will show you how to create a simple VBCS mobile application*
 
-You can easily create web and mobile applications via an intuitive drag and drop interface using Oracle VBCS. You can counter the IT backlog due to the fast and increasing demands of mordern business by quickly building an departmental mobile or web applications.
+You can easily create web and mobile applications via an intuitive drag and drop interface using Oracle VBCS. You can counter the IT backlog due to the fast and increasing demands of mordern business by quickly building a departmental mobile or web application.
 
-You don't need to install any software development tools-With the Oracle Visual builder Cloud Service or Oracle Intergration Cloud Service you are good to go!. 
+You don't need to install any software development tools. Using the Oracle Visual builder Cloud Service or Oracle Intergration Cloud Service you are good to go!
+
 VBCS leverages the low code development approach. 
 
 *Steps on creating a simple VBCS mobile application.*
 
-I have been reading alot of late, thus i will create a simple book tracking system. We shall leverage on data from a csv file.
+I will create a simple book tracking system. We shall leverage on data from an excel file.
 
 Log in to your [Oracle Cloud Account.](https://cloud.oracle.com/home)
 
@@ -20,13 +21,16 @@ Create new application.
 
 ![_config.yml]({{ site.baseurl }}/images/images1.JPG)
 
-Your landing page looks like this. 
+Your landing page looks like this once you create a new VBCS application. 
 
 ![_config.yml]({{ site.baseurl }}/images/image3.JPG)
 
 Select Mobile application and give it a name.
 
-We first need to create a Business Object. In my case we shall import data from this [csv file](({{ site.baseurl }}/images/BooksCatalog.xlsv). They data could also be from a service connection on a REST API. 
+We first need to create a Business Object. In my case we shall import data from this [excel file](https://github.com/labanish/labanish.github.io/blob/master/images/BooksCatalog.xlsx). 
+
+The data could also be from a service connection on a REST API. 
+
 On the left most menu of the window. Select Business Objects then click on the hamburger menu and select data manager. 
 
 ![_config.yml]({{ site.baseurl }}/images/image5.JPG)
@@ -47,7 +51,7 @@ This would be the outcome.
 
 ![_config.yml]({{ site.baseurl }}/images/image7.JPG)
 
-Now let's add an action when somebody clicks on the item on the Listview. We want to someone to see more details about the book ie. Description & Published Dates.
+Now let's add an action when somebody clicks on the item on the Listview. We want someone to see more details about the book ie. Description & Published Dates.
 Select on the List view. Click on the data Icon. Then click on the "Add Details Page"
 
 ![_config.yml]({{ site.baseurl }}/images/image8.JPG)
@@ -56,7 +60,7 @@ Select the Business Object on the Wizard.
 Drag and drop Booktitle, Description, PublishDate on the "Fields" area.
 Click Finish.
 
-You can now test the app by clicking on the Live button. Select a row on the list view.
+Click live view and test the app. Select a row on the list view. This should be the outcome
 
 ![_config.yml]({{ site.baseurl }}/images/image9.JPG)
 
