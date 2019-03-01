@@ -74,6 +74,8 @@ Click on the play button to test your application!
 
 ![_config.yml]({{ site.baseurl }}/images/image11.JPG)
 
+You can also add more features like edit, delete or connect to your enterprise software etc!
+
 Below is a demo video of the application we just created.
 
 ##demo video.
