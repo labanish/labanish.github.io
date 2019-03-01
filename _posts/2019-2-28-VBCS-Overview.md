@@ -78,7 +78,7 @@ You can also add more features like edit, delete or connect to your enterprise s
 
 Below is a demo video of the application we just created.
 
-##demo video.
+![_config.yml]({{ site.baseurl }}/images/VBCS_Demo _on _Android _Device.mp4)
 
 You can download the skeleton application i just created [here]
 
