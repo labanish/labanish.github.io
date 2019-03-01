@@ -78,9 +78,8 @@ You can also add more features like edit, delete or connect to your enterprise s
 
 Below is a demo video of the application we just created.
 
-![_config.yml]({{ site.baseurl }}/images/VBCS_Demo _on _Android _Device.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tM9BGTeTs-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-You can download the skeleton application i just created [here]
 
 If you have any questions regarding VBCS feel free to reach out to me. 
 
